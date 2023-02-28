@@ -1,4 +1,8 @@
 notebooks/mnist_data
+notebooks/data/textual_inversion/*
+!otebooks/data/textual_inversion/.gitkeep
+notebooks/data/chris_images/*
+!notebooks/data/chris_images/.gitkeep
 *.gif
 *.ckpt
 

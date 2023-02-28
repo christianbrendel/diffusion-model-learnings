@@ -17,4 +17,10 @@ dependencies:
     - diffusers
     - transformers
     - accelerate
-
+    # extra requirements for textual inversion training
+    - accelerate
+    - torchvision
+    - transformers>=4.25.1
+    - ftfy
+    - tensorboard
+    - Jinja2
